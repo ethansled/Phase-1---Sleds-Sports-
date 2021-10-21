@@ -1,0 +1,88 @@
+head{
+    color: #f7f7f7;
+    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    color: #f7f7f7;
+    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: #f5b553;
+    background-color: #854836;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    border-style: dashed;
+    border-color: #f5b553;
+}
+
+h2{
+    color: #f5b553;
+    background-color: #854836;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    border: #f5b553;
+    border-style: dashed;
+}
+
+h4{
+    color: #f5b553;
+    background-color: #854836;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 125%;
+    text-align: center;
+    border-style: dashed;
+    border-color: #f5b553;
+}
+
+img{
+    width: auto;
+    margin: auto;
+    display: block;
+    border-style: dashed;
+    border-color: #f5b553;
+    
+}
+
+menu{
+    color: #f5b553;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 130%;
+    text-align: center;
+    border-color: #f5b553; 
+}
+
+main{
+    color: #f5b553;
+    background-color: #854836;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    border-style: dashed;
+    border-color: #f5b553;   
+}
+
+a{
+    color: #f7f7f7;
+}
+
+hr{
+    color: #f7f7f7;
+    border: #f7f7f7;
+    border-style: dashed;
+}
+
+#p_menu{
+    color: #f5b553;
+    background-color: #854836;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 125%;
+    text-align: center;
+    border-style: dashed;
+    border-color: #f5b553; 
+}
+
