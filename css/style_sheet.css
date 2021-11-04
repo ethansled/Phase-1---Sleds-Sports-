@@ -11,31 +11,37 @@ body{
 
 h1{
     color: #fffff0;
-    background-color: #939fa3;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
-    border-style: dashed;
+    border-style: solid;
     border-color: #fffff0;
 }
 
 h2{
     color: #fffff0;
-    background-color: #939fa3;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
-    border: #fffff0;
-    border-style: dashed;
+    border-top: #fffff0;
+    border-bottom: #fffff0;
+    border-left: #d3d3d3;
+    border-right: #2d3436;
+    border-style: solid;
 }
 
 h4{
     color: #fffff0;
-    background-color: #939fa3;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
-    border-style: dashed;
+    border-style: solid;
     border-color: #fffff0;
 }
 
@@ -43,7 +49,7 @@ img{
     width: auto;
     margin: auto;
     display: block;
-    border-style: dashed;
+    border-style: solid;
     border-color: #fffff0;
     
 }
@@ -62,7 +68,7 @@ main{
     background-color: #122129;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
-    border-style: dashed;
+    border-style: solid;
     border-color: #fffff0;   
 }
 
@@ -73,7 +79,7 @@ a{
 hr{
     color: #fffff0;
     border: #fffff0;
-    border-style: dashed;
+    border-style: solid;
 }
 
 #p_menu{
@@ -82,7 +88,7 @@ hr{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
-    border-style: dashed;
+    border-style: solid;
     border-color: #fffff0; 
 }
 
