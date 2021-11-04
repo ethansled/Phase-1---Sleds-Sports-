@@ -1,43 +1,42 @@
 head{
-    color: #f7f7f7;
-    background-color: #000000;
+    background:radial-gradient(#238dbb, #114476);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body{
-    color: #f7f7f7;
-    background-color: #000000;
+    background:radial-gradient(#238dbb, #114476);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fffff0;
 }
 
 h1{
-    color: #f5b553;
-    background-color: #854836;
+    color: #fffff0;
+    background-color: #939fa3;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
     border-style: dashed;
-    border-color: #f5b553;
+    border-color: #fffff0;
 }
 
 h2{
-    color: #f5b553;
-    background-color: #854836;
+    color: #fffff0;
+    background-color: #939fa3;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
-    border: #f5b553;
+    border: #fffff0;
     border-style: dashed;
 }
 
 h4{
-    color: #f5b553;
-    background-color: #854836;
+    color: #fffff0;
+    background-color: #939fa3;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
     border-style: dashed;
-    border-color: #f5b553;
+    border-color: #fffff0;
 }
 
 img{
@@ -45,44 +44,45 @@ img{
     margin: auto;
     display: block;
     border-style: dashed;
-    border-color: #f5b553;
+    border-color: #fffff0;
     
 }
 
-menu{
-    color: #f5b553;
+menu {
+    color: #fffff0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 130%;
     text-align: center;
-    border-color: #f5b553; 
+    border-color: #fffff0; 
+    
 }
 
 main{
-    color: #f5b553;
-    background-color: #854836;
+    color: #fffff0;
+    background-color: #122129;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
     border-style: dashed;
-    border-color: #f5b553;   
+    border-color: #fffff0;   
 }
 
 a{
-    color: #f7f7f7;
+    color: #fffff0;
 }
 
 hr{
-    color: #f7f7f7;
-    border: #f7f7f7;
+    color: #fffff0;
+    border: #fffff0;
     border-style: dashed;
 }
 
 #p_menu{
-    color: #f5b553;
-    background-color: #854836;
+    color: #fffff0;
+    background-color: #122129;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
     border-style: dashed;
-    border-color: #f5b553; 
+    border-color: #fffff0; 
 }
 
