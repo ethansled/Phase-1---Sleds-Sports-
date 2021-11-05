@@ -6,43 +6,43 @@ head{
 body{
     background:radial-gradient(#238dbb, #114476);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: #fffff0;
+    color: rgb(235, 232, 232);
 }
 
 h1{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     background-color: #2d3436;
     background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
     border-style: solid;
-    border-color: #fffff0;
+    border-color: rgb(235, 232, 232);
 }
 
 h2{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     background-color: #2d3436;
     background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200%;
     text-align: center;
-    border-top: #fffff0;
-    border-bottom: #fffff0;
+    border-top: rgb(235, 232, 232);
+    border-bottom: rgb(235, 232, 232);
     border-left: #d3d3d3;
     border-right: #2d3436;
     border-style: solid;
 }
 
 h4{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     background-color: #2d3436;
     background-image: linear-gradient(315deg, #2d3436 0%, #d3d3d3 74%);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
     border-style: solid;
-    border-color: #fffff0;
+    border-color: rgb(235, 232, 232);
 }
 
 img{
@@ -50,45 +50,51 @@ img{
     margin: auto;
     display: block;
     border-style: solid;
-    border-color: #fffff0;
+    border-color: rgb(235, 232, 232);
     
 }
 
 menu {
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 130%;
     text-align: center;
-    border-color: #fffff0; 
+    border-color: rgb(235, 232, 232); 
     
 }
 
 main{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     background-color: #122129;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
     border-style: solid;
-    border-color: #fffff0;   
+    border-color: rgb(235, 232, 232);   
 }
 
 a{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
 }
 
 hr{
-    color: #fffff0;
-    border: #fffff0;
+    color: rgb(235, 232, 232);
+    border: rgb(235, 232, 232);
     border-style: solid;
 }
 
 #p_menu{
-    color: #fffff0;
+    color: rgb(235, 232, 232);
     background-color: #122129;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 125%;
     text-align: center;
     border-style: solid;
-    border-color: #fffff0; 
+    border-color: rgb(235, 232, 232); 
 }
 
+a:hover{
+    background: linear-gradient(90deg, #ba800d, #f3d836, #f2e9a6, #c3ae61, #e2b718, #e4a40d);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
