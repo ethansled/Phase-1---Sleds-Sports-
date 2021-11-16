@@ -17,20 +17,20 @@ h1{
     font-size: 200%;
     text-align: center;
     border:groove 5px rgb(235, 232, 232);
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
     border-bottom-right-radius:75px;
-    /* -moz-box-shadow: 10px 10px 13px #000000;
-    -webkit-box-shadow: 10px 10px 13px #000000; */
+    -moz-box-shadow: 10px 10px 13px #000000;
+    -webkit-box-shadow: 10px 10px 13px #000000; 
     box-shadow: 10px 10px 13px black;
 }
 
@@ -46,14 +46,14 @@ h2{
     border-left: #d3d3d3;
     border-right: #2d3436;
     border:groove 5px;
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
@@ -69,14 +69,14 @@ h4{
     font-size: 125%;
     text-align: center;
     border:groove 5px rgb(235, 232, 232);
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
@@ -89,14 +89,14 @@ img{
     margin: auto;
     display: block;
     border:groove 5px rgb(235, 232, 232);
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
@@ -120,14 +120,14 @@ main{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: left;
     border:groove 5px rgb(235, 232, 232);
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
@@ -152,14 +152,14 @@ hr{
     font-size: 125%;
     text-align: center;
     border:groove 5px rgb(235, 232, 232);
-    /* -moz-border-radius-topleft: 59px;
+    -moz-border-radius-topleft: 59px;
     -moz-border-radius-topright:16px;
     -moz-border-radius-bottomleft:16px;
     -moz-border-radius-bottomright:75px;
     -webkit-border-top-left-radius:59px;
     -webkit-border-top-right-radius:16px;
     -webkit-border-bottom-left-radius:16px;
-    -webkit-border-bottom-right-radius:75px; */
+    -webkit-border-bottom-right-radius:75px; 
     border-top-left-radius:59px;
     border-top-right-radius:16px;
     border-bottom-left-radius:16px;
